@@ -1,10 +1,10 @@
-🙂 Hello, you can call me Marco!
+🙋‍♂️ Hello, you can call me Marco!
 
-🌴 I live in Divinópolis-MG, Brazil.
+🏠 I live in Divinópolis-MG, Brazil.
 
 🎯 Java, Spring Framework.
 
-🌱 Learning, practicing, collaborating and sharing some projects carried out during the studies.
+✍ Learning, practicing, collaborating and sharing some projects carried out during the studies.
 
 💻 I'm an eternal student...
 
