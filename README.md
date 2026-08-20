@@ -16,7 +16,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 Information Systems student at **UFLA** (Universidade Federal de Lavras) — expected graduation 2028
+- 🎓 Information Systems student at **UFLA** (Universidade Federal de Lavras) — expected graduation 2029
 - 🏫 Graduate in **Systems Analysis & Development** — UNINTER (2025)
 - 🔭 Currently deepening skills in **Java, Spring Boot, Microservices, Docker, Kubernetes and AWS**
 - 📊 Member of **NIAD** — Data Science Study Group at UFLA
