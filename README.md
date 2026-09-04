@@ -16,7 +16,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 Information Systems student at **UFLA** (Universidade Federal de Lavras) — expected graduation 2029
+- 🎓 Information Systems student at **UFLA** (Universidade Federal de Lavras)
 - 🏫 Graduate in **Systems Analysis & Development** — UNINTER (2025)
 - 🔭 Currently deepening skills in **Java, Spring Boot, Microservices, Docker, Kubernetes and AWS**
 - 📊 Member of **NIAD** — Data Science Study Group at UFLA
@@ -41,8 +41,6 @@
 **DevOps & Cloud**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 **Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
